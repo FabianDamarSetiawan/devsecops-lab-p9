@@ -11,3 +11,5 @@ __pycache__/
 tests/
 docs/
 README.md
+*.log
+node_modules
